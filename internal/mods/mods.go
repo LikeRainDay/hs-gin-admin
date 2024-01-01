@@ -3,8 +3,8 @@ package mods
 import (
 	"context"
 
-	"github.com/LyricTian/gin-admin/v10/internal/mods/rbac"
-	"github.com/LyricTian/gin-admin/v10/internal/mods/sys"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/rbac"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/sys"
 	"github.com/gin-gonic/gin"
 	"github.com/google/wire"
 )

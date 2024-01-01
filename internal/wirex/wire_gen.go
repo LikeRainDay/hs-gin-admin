@@ -8,16 +8,16 @@ package wirex
 
 import (
 	"context"
-	"github.com/LyricTian/gin-admin/v10/internal/mods"
-	"github.com/LyricTian/gin-admin/v10/internal/mods/rbac"
-	"github.com/LyricTian/gin-admin/v10/internal/mods/rbac/api"
-	"github.com/LyricTian/gin-admin/v10/internal/mods/rbac/biz"
-	"github.com/LyricTian/gin-admin/v10/internal/mods/rbac/dal"
-	"github.com/LyricTian/gin-admin/v10/internal/mods/sys"
-	api2 "github.com/LyricTian/gin-admin/v10/internal/mods/sys/api"
-	biz2 "github.com/LyricTian/gin-admin/v10/internal/mods/sys/biz"
-	dal2 "github.com/LyricTian/gin-admin/v10/internal/mods/sys/dal"
-	"github.com/LyricTian/gin-admin/v10/pkg/util"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/rbac"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/rbac/api"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/rbac/biz"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/rbac/dal"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/sys"
+	api2 "github.com/LikeRainDay/gin-admin/v10/internal/mods/sys/api"
+	biz2 "github.com/LikeRainDay/gin-admin/v10/internal/mods/sys/biz"
+	dal2 "github.com/LikeRainDay/gin-admin/v10/internal/mods/sys/dal"
+	"github.com/LikeRainDay/gin-admin/v10/pkg/util"
 )
 
 // Injectors from wire.go:

@@ -1,9 +1,9 @@
 package sys
 
 import (
-	"github.com/LyricTian/gin-admin/v10/internal/mods/sys/api"
-	"github.com/LyricTian/gin-admin/v10/internal/mods/sys/biz"
-	"github.com/LyricTian/gin-admin/v10/internal/mods/sys/dal"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/sys/api"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/sys/biz"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/sys/dal"
 	"github.com/google/wire"
 )
 

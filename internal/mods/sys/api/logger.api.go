@@ -1,9 +1,9 @@
 package api
 
 import (
-	"github.com/LyricTian/gin-admin/v10/internal/mods/sys/biz"
-	"github.com/LyricTian/gin-admin/v10/internal/mods/sys/schema"
-	"github.com/LyricTian/gin-admin/v10/pkg/util"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/sys/biz"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/sys/schema"
+	"github.com/LikeRainDay/gin-admin/v10/pkg/util"
 	"github.com/gin-gonic/gin"
 )
 

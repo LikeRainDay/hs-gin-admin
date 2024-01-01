@@ -8,14 +8,14 @@ import (
 	"strings"
 	"time"
 
-	"github.com/LyricTian/gin-admin/v10/internal/config"
-	"github.com/LyricTian/gin-admin/v10/internal/mods/rbac/dal"
-	"github.com/LyricTian/gin-admin/v10/internal/mods/rbac/schema"
-	"github.com/LyricTian/gin-admin/v10/pkg/encoding/json"
-	"github.com/LyricTian/gin-admin/v10/pkg/encoding/yaml"
-	"github.com/LyricTian/gin-admin/v10/pkg/errors"
-	"github.com/LyricTian/gin-admin/v10/pkg/logging"
-	"github.com/LyricTian/gin-admin/v10/pkg/util"
+	"github.com/LikeRainDay/gin-admin/v10/internal/config"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/rbac/dal"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/rbac/schema"
+	"github.com/LikeRainDay/gin-admin/v10/pkg/encoding/json"
+	"github.com/LikeRainDay/gin-admin/v10/pkg/encoding/yaml"
+	"github.com/LikeRainDay/gin-admin/v10/pkg/errors"
+	"github.com/LikeRainDay/gin-admin/v10/pkg/logging"
+	"github.com/LikeRainDay/gin-admin/v10/pkg/util"
 	"go.uber.org/zap"
 )
 

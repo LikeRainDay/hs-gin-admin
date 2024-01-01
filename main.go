@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/LyricTian/gin-admin/v10/cmd"
+	"github.com/LikeRainDay/gin-admin/v10/cmd"
 	"github.com/urfave/cli/v2"
 )
 

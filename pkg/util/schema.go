@@ -1,6 +1,6 @@
 package util
 
-import "github.com/LyricTian/gin-admin/v10/pkg/errors"
+import "github.com/LikeRainDay/gin-admin/v10/pkg/errors"
 
 const (
 	ReqBodyKey        = "req-body"

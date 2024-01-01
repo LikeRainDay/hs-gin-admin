@@ -1,4 +1,4 @@
-module github.com/LyricTian/gin-admin/v10
+module github.com/LikeRainDay/gin-admin/v10
 
 go 1.19
 

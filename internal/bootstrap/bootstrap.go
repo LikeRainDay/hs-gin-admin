@@ -7,12 +7,12 @@ import (
 	"os"
 	"strings"
 
-	"github.com/LyricTian/gin-admin/v10/internal/config"
-	_ "github.com/LyricTian/gin-admin/v10/internal/swagger"
-	"github.com/LyricTian/gin-admin/v10/internal/utility/prom"
-	"github.com/LyricTian/gin-admin/v10/internal/wirex"
-	"github.com/LyricTian/gin-admin/v10/pkg/logging"
-	"github.com/LyricTian/gin-admin/v10/pkg/util"
+	"github.com/LikeRainDay/gin-admin/v10/internal/config"
+	_ "github.com/LikeRainDay/gin-admin/v10/internal/swagger"
+	"github.com/LikeRainDay/gin-admin/v10/internal/utility/prom"
+	"github.com/LikeRainDay/gin-admin/v10/internal/wirex"
+	"github.com/LikeRainDay/gin-admin/v10/pkg/logging"
+	"github.com/LikeRainDay/gin-admin/v10/pkg/util"
 	"go.uber.org/zap"
 )
 

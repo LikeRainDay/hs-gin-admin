@@ -4,11 +4,11 @@ import (
 	"context"
 	"time"
 
-	"github.com/LyricTian/gin-admin/v10/internal/config"
-	"github.com/LyricTian/gin-admin/v10/internal/mods"
-	"github.com/LyricTian/gin-admin/v10/pkg/cachex"
-	"github.com/LyricTian/gin-admin/v10/pkg/gormx"
-	"github.com/LyricTian/gin-admin/v10/pkg/jwtx"
+	"github.com/LikeRainDay/gin-admin/v10/internal/config"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods"
+	"github.com/LikeRainDay/gin-admin/v10/pkg/cachex"
+	"github.com/LikeRainDay/gin-admin/v10/pkg/gormx"
+	"github.com/LikeRainDay/gin-admin/v10/pkg/jwtx"
 	"github.com/golang-jwt/jwt"
 	"gorm.io/gorm"
 )

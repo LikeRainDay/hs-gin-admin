@@ -1,9 +1,9 @@
 package rbac
 
 import (
-	"github.com/LyricTian/gin-admin/v10/internal/mods/rbac/api"
-	"github.com/LyricTian/gin-admin/v10/internal/mods/rbac/biz"
-	"github.com/LyricTian/gin-admin/v10/internal/mods/rbac/dal"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/rbac/api"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/rbac/biz"
+	"github.com/LikeRainDay/gin-admin/v10/internal/mods/rbac/dal"
 	"github.com/google/wire"
 )
 
